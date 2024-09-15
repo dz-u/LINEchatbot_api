@@ -1,0 +1,2 @@
+# LINEchatbot_api
+LINEチャットボットとopenaiのAPIキーを連携させて、csvファイルを元に料理提案をしてくれるbot
